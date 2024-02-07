@@ -1,6 +1,6 @@
 ---
 name: 플랫폼 UI/UX디자인
-about: 빠띠가 서비스하는 플랫폼 UI/UX작업 의뢰입니다.
+about: 빠띠의 플랫폼 UI/UX작업 의뢰입니다.
 title: ''
 labels: ''
 assignees: ''
