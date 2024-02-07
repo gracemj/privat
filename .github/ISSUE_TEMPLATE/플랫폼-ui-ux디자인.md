@@ -1,6 +1,6 @@
 ---
 name: 플랫폼 UI/UX디자인
-about: 빠띠의 플랫폼 UI/UX작업요청 시 이 양식에 맞추어 적어주세요.
+about: 빠띠의 플랫폼 UI/UX작업요청 시 이 양식에 맞춰 작성해주세요
 title: ''
 labels: ''
 assignees: ''
